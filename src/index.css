@@ -1,0 +1,34 @@
+.card {
+  margin: auto;
+  max-width: 400px;
+  height: 500px;
+  border-radius: 40px;
+  border: 2px solid black;
+  background-color: rgb(188, 200, 237);
+  box-shadow: 2px 1px 2pc rgb(101, 90, 90);
+}
+
+.inputField {
+
+  width: 50%;
+  margin: 40px 75px;
+  border-radius: 5rem;
+  padding: 15px;
+  font-size: 32px;
+}
+
+.info {
+  text-align: center;
+}
+
+.location {
+  font-size: 52px;
+}
+.temp {
+  font-size: 40px;
+  padding: 10px;
+  color: blue;
+}
+.tempmax-min {
+  color: grey;
+}
